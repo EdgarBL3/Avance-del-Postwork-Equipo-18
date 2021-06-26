@@ -1,5 +1,5 @@
 # Avance-del-Postwork-Equipo-18
-Repositorio con los postworks 1 a 4 y el reporte completo del avance de proyecto
+Repositorio con los postworks 1 a 4 y el reporte completo del avance de proyecto.
 
 - [Postwork 1](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Postwork%201.R)
 - [Postwork 2](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Postwork%202.R)
