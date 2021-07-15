@@ -1,9 +1,10 @@
 # BEDU equipo 18
 # Ana Cristina Castillo Escobar
 # Edgar Balderas Loranca
-# JosÈ Alberto Cortes Ayala
+# Jos√© Alberto Cortes Ayala
 # Leandro Marcelo Pantoja Acosta
-# Marcos Y·Òez EspÌndola
+# Marcos Y√°√±ez Esp√≠ndola
+# Luis Arturo Rosas Le√≥n
 
 library(rsample) #Libreria para hacer bootstraping
 
