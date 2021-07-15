@@ -13,7 +13,7 @@ library(plotly)
 
 #Importar el conjunto de datos match_data.csv a R y realizar lo siguiente:
 setwd("C:/Users/Dell/OneDrive/Documentos/ArchivosR/Sesion6")
-data <- read.csv("match_data.csv")
+data <- read.csv("match.data.csv")
 
 #Agregar una nueva columna sumagoles que contenga la suma de goles por partido.
 library(dplyr)
