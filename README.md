@@ -8,6 +8,6 @@ Repositorio con los postworks 1 a 4 y el reporte completo del avance de proyecto
 - [Reporte Postworks 1 a 4](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Reporte_BEDU_Equipo18.pdf)
 - [Postwork 5](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/S5_Postwork.R)
 - [Postwork 6](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Postwork%206.R)
-- [Postwork 7]()
+- [Postwork 7](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Postwork%207.R)
 - [Postwork 8]()
 - [Vídeo presentación]()
