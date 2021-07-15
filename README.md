@@ -1,4 +1,4 @@
-# Avance-del-Postwork-Equipo-18
+# BEDU-Fase-2:-módulo-de-R
 Repositorio con los postworks 1 a 8, reporte del avance de proyecto hasta el postwork 4 y video presentación.
 
 - [Archivos de input](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/tree/main/Data)
